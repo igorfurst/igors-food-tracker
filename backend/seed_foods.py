@@ -37,7 +37,7 @@ FOODS = [
     {"name": "Sir", "query": "cheddar cheese", "unit": "100g"},
     {"name": "Skuta", "query": "cottage cheese", "unit": "100g"},
     {"name": "Jogurt", "query": "plain yogurt", "unit": "100g"},
-    {"name": "Grški jogurt", "query": "greek yogurt", "unit": "100g"},
+    {"name": "Grški jogurt", "query": "yogurt, greek, plain, whole milk", "unit": "100g"},
     {"name": "Kefir", "query": "kefir", "unit": "100g"},
     {"name": "Kisla smetana", "query": "sour cream", "unit": "100g"},
     {"name": "Maslo", "query": "butter", "unit": "100g"},

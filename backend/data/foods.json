@@ -374,13 +374,13 @@
   "greek_yogurt": {
     "name": "Grški jogurt",
     "unit": "100g",
-    "calories": 467,
-    "protein_g": 3.33,
-    "fat_g": 20.0,
-    "carbs_g": 70.0,
+    "calories": 93.7,
+    "protein_g": 8.78,
+    "fat_g": 4.39,
+    "carbs_g": 4.75,
     "iron_mg": 0.0,
     "vitamin_b12_µg": null,
-    "vitamin_d_µg": null,
+    "vitamin_d_µg": 0.0,
     "omega_3_g": null
   },
   "kefir": {
