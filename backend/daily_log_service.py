@@ -1,6 +1,8 @@
 import json
+import sys
 from datetime import date
 
+from garmin_service import get_daily_calories_burned
 from nutrition_service import DATA_DIR, NUTRIENT_KEYS
 
 FOODS_FILE = DATA_DIR / "foods.json"
@@ -40,8 +42,12 @@ def compute_intake(entries):
 
 
 def get_garmin_today():
-    cache = _load_json(GARMIN_CACHE_FILE)
-    return cache.get(date.today().isoformat())
+    try:
+        return get_daily_calories_burned()
+    except Exception as e:
+        print(f"Garmin fetch failed, falling back to cache: {e}", file=sys.stderr)
+        cache = _load_json(GARMIN_CACHE_FILE)
+        return cache.get(date.today().isoformat())
 
 
 def compute_daily_log(entries):
