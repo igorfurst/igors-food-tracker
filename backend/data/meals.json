@@ -1,0 +1,295 @@
+{
+  "losos_zelenjava": {
+    "name": "Losos z zelenjavo",
+    "ingredients": [
+      {
+        "food": "salmon",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "food": "broccoli_raw",
+        "quantity": 150,
+        "unit": "g"
+      },
+      {
+        "food": "carrots_raw",
+        "quantity": 100,
+        "unit": "g"
+      }
+    ],
+    "calories": 380.5,
+    "protein_g": 35.125,
+    "fat_g": 16.65,
+    "carbs_g": 24.385,
+    "iron_mg": 2.115,
+    "vitamin_b12_µg": 0.0,
+    "vitamin_d_µg": 0.0,
+    "omega_3_g": null
+  },
+  "losos_krompir": {
+    "name": "Losos s krompirjem",
+    "ingredients": [
+      {
+        "food": "salmon",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "food": "potato",
+        "quantity": 250,
+        "unit": "g"
+      }
+    ],
+    "calories": 470.5,
+    "protein_g": 35.525,
+    "fat_g": 16.125,
+    "carbs_g": 49.05,
+    "iron_mg": 2.985,
+    "vitamin_b12_µg": 0.0,
+    "vitamin_d_µg": 0.0,
+    "omega_3_g": null
+  },
+  "piscanec_zelena_solata": {
+    "name": "Piščanec v zeleni solati",
+    "ingredients": [
+      {
+        "food": "chicken_broilers_or_fryers_breast_meat_only_raw",
+        "quantity": 400,
+        "unit": "g"
+      },
+      {
+        "food": "lettuce_raw",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "food": "olive_oil",
+        "quantity": 13.5,
+        "unit": "g"
+      }
+    ],
+    "calories": 617.5,
+    "protein_g": 86.52,
+    "fat_g": 25.92,
+    "carbs_g": 3.69,
+    "iron_mg": 3.896,
+    "vitamin_b12_µg": 1.48,
+    "vitamin_d_µg": 0.4,
+    "omega_3_g": null
+  },
+  "rizota_meso": {
+    "name": "Rižota z mesom",
+    "ingredients": [
+      {
+        "food": "white_rice",
+        "quantity": 80,
+        "unit": "g"
+      },
+      {
+        "food": "beef",
+        "quantity": 150,
+        "unit": "g"
+      },
+      {
+        "food": "onions_raw",
+        "quantity": 50,
+        "unit": "g"
+      }
+    ],
+    "calories": 478.9,
+    "protein_g": 35.766,
+    "fat_g": 8.86,
+    "carbs_g": 66.47,
+    "iron_mg": 9.04,
+    "vitamin_b12_µg": 0.0,
+    "vitamin_d_µg": 0.0,
+    "omega_3_g": null
+  },
+  "rizota_tuna": {
+    "name": "Rižota s tuno",
+    "ingredients": [
+      {
+        "food": "white_rice",
+        "quantity": 80,
+        "unit": "g"
+      },
+      {
+        "food": "tuna",
+        "quantity": 150,
+        "unit": "g"
+      },
+      {
+        "food": "onions_raw",
+        "quantity": 50,
+        "unit": "g"
+      }
+    ],
+    "calories": 501.4,
+    "protein_g": 40.716,
+    "fat_g": 7.39,
+    "carbs_g": 66.47,
+    "iron_mg": 4.21,
+    "vitamin_b12_µg": 14.145,
+    "vitamin_d_µg": 8.55,
+    "omega_3_g": null
+  },
+  "tortilja_piscanec": {
+    "name": "Tortilja s piščancem",
+    "ingredients": [
+      {
+        "food": "tortilla_flour",
+        "quantity": 1,
+        "unit": "kos"
+      },
+      {
+        "food": "chicken_broilers_or_fryers_breast_meat_only_raw",
+        "quantity": 300,
+        "unit": "g"
+      },
+      {
+        "food": "lettuce_raw",
+        "quantity": 50,
+        "unit": "g"
+      }
+    ],
+    "calories": 504.7,
+    "protein_g": 68.35,
+    "fat_g": 12.886,
+    "carbs_g": 24.066,
+    "iron_mg": 4.433,
+    "vitamin_b12_µg": 1.11,
+    "vitamin_d_µg": 0.3,
+    "omega_3_g": null
+  },
+  "zelenjavni_polpet": {
+    "name": "Zelenjavni polpet",
+    "ingredients": [
+      {
+        "food": "zucchini_raw",
+        "quantity": 150,
+        "unit": "g"
+      },
+      {
+        "food": "carrots_raw",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "food": "egg_whole_raw",
+        "quantity": 1,
+        "unit": "kos"
+      }
+    ],
+    "calories": 147.0,
+    "protein_g": 11.135,
+    "fat_g": 5.82,
+    "carbs_g": 14.825,
+    "iron_mg": 2.14,
+    "vitamin_b12_µg": 0.51,
+    "vitamin_d_µg": 1.25,
+    "omega_3_g": null
+  },
+  "zelenjavna_juha": {
+    "name": "Zelenjavna juha",
+    "ingredients": [
+      {
+        "food": "vegetable_soup",
+        "quantity": 300,
+        "unit": "g"
+      }
+    ],
+    "calories": 138.0,
+    "protein_g": 5.01,
+    "fat_g": 0.63,
+    "carbs_g": 27.51,
+    "iron_mg": 1.35,
+    "vitamin_b12_µg": null,
+    "vitamin_d_µg": null,
+    "omega_3_g": null
+  },
+  "goveji_zrezek_krompir_zelenjava": {
+    "name": "Goveji zrezek s krompirjem in zelenjavo",
+    "ingredients": [
+      {
+        "food": "beef",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "food": "potato",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "food": "broccoli_raw",
+        "quantity": 100,
+        "unit": "g"
+      }
+    ],
+    "calories": 451.0,
+    "protein_g": 46.67,
+    "fat_g": 12.28,
+    "carbs_g": 41.27,
+    "iron_mg": 10.79,
+    "vitamin_b12_µg": 0.0,
+    "vitamin_d_µg": 0.0,
+    "omega_3_g": null
+  },
+  "testenine_tuna_paradiznik": {
+    "name": "Testenine s tuno in paradižnikovo omako",
+    "ingredients": [
+      {
+        "food": "pasta",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "food": "tuna",
+        "quantity": 150,
+        "unit": "g"
+      },
+      {
+        "food": "tomatoes_raw",
+        "quantity": 150,
+        "unit": "g"
+      }
+    ],
+    "calories": 621.0,
+    "protein_g": 48.68,
+    "fat_g": 9.605,
+    "carbs_g": 84.66,
+    "iron_mg": 5.07,
+    "vitamin_b12_µg": 14.145,
+    "vitamin_d_µg": 8.55,
+    "omega_3_g": null
+  },
+  "omleta_jajca_zelenjava": {
+    "name": "Omleta z jajci in zelenjavo",
+    "ingredients": [
+      {
+        "food": "egg_whole_raw",
+        "quantity": 4,
+        "unit": "kos"
+      },
+      {
+        "food": "peppers_sweet_raw",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "food": "onions_raw",
+        "quantity": 50,
+        "unit": "g"
+      }
+    ],
+    "calories": 328.0,
+    "protein_g": 25.95,
+    "fat_g": 20.07,
+    "carbs_g": 10.93,
+    "iron_mg": 3.65,
+    "vitamin_b12_µg": 2.04,
+    "vitamin_d_µg": 5.0,
+    "omega_3_g": null
+  }
+}

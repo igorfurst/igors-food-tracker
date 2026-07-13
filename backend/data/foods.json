@@ -194,13 +194,13 @@
   "tuna": {
     "name": "Tuna",
     "unit": "100g",
-    "calories": 94.0,
-    "protein_g": 5.66,
-    "fat_g": 3.77,
-    "carbs_g": 10.4,
-    "iron_mg": 0.68,
-    "vitamin_b12_µg": null,
-    "vitamin_d_µg": null,
+    "calories": 144,
+    "protein_g": 23.3,
+    "fat_g": 4.9,
+    "carbs_g": 0.0,
+    "iron_mg": 1.02,
+    "vitamin_b12_µg": 9.43,
+    "vitamin_d_µg": 5.7,
     "omega_3_g": null
   },
   "sardines": {
@@ -614,13 +614,13 @@
   "potato": {
     "name": "Krompir",
     "unit": "100g",
-    "calories": 171,
-    "protein_g": 3.89,
-    "fat_g": 11.32,
-    "carbs_g": 13.49,
-    "iron_mg": 0.75,
-    "vitamin_b12_µg": 0.28,
-    "vitamin_d_µg": 0.5,
+    "calories": 77.0,
+    "protein_g": 2.05,
+    "fat_g": 0.09,
+    "carbs_g": 17.5,
+    "iron_mg": 0.81,
+    "vitamin_b12_µg": 0.0,
+    "vitamin_d_µg": 0.0,
     "omega_3_g": null
   },
   "sweet_potato": {
