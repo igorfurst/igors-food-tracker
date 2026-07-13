@@ -15,7 +15,10 @@ MEALS_FILE = DATA_DIR / "meals.json"
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],
+    allow_origins=[
+        "http://localhost:5173",
+        "https://silly-tulumba-1c04b6.netlify.app",
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
