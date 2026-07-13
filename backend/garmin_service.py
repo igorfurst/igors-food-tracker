@@ -1,0 +1,2 @@
+class GarminService:
+    pass
