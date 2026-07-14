@@ -146,3 +146,29 @@
 .balance .negative {
   color: #c0392b;
 }
+
+.add-food-form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 1rem;
+  padding: 1rem 1.25rem;
+  border: 1px solid #d0d0d0;
+  border-radius: 8px;
+}
+
+.add-food-form input[type="text"] {
+  flex: 1 1 auto;
+  min-width: 0;
+  padding: 0.4rem 0.6rem;
+}
+
+.add-food-form button {
+  flex-shrink: 0;
+}
+
+.add-food-error {
+  flex-basis: 100%;
+  color: #c0392b;
+  margin: 0;
+}

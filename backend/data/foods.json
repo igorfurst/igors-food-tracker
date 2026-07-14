@@ -590,11 +590,11 @@
   "basmati_rice": {
     "name": "Basmati riž",
     "unit": "100g",
-    "calories": null,
-    "protein_g": 3.2,
-    "fat_g": 1.6,
-    "carbs_g": 43.2,
-    "iron_mg": 0.32,
+    "calories": 359,
+    "protein_g": 7.04,
+    "fat_g": 1.03,
+    "carbs_g": 80.3,
+    "iron_mg": 0.14,
     "vitamin_b12_µg": null,
     "vitamin_d_µg": null,
     "omega_3_g": null
@@ -1977,6 +1977,18 @@
     "iron_mg": 0.27,
     "vitamin_b12_µg": 0,
     "vitamin_d_µg": 0,
+    "omega_3_g": null
+  },
+  "burek": {
+    "name": "Burek",
+    "unit": "100g",
+    "calories": 254,
+    "protein_g": 10.6,
+    "fat_g": 11.3,
+    "carbs_g": 21.8,
+    "iron_mg": 2.54,
+    "vitamin_b12_µg": null,
+    "vitamin_d_µg": null,
     "omega_3_g": null
   }
 }

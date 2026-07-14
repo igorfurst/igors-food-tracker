@@ -1,6 +1,7 @@
 {
   "losos_zelenjava": {
     "name": "Losos z zelenjavo",
+    "category": "kosilo_vecerja",
     "ingredients": [
       {
         "food": "salmon",
@@ -29,6 +30,7 @@
   },
   "losos_krompir": {
     "name": "Losos s krompirjem",
+    "category": "kosilo_vecerja",
     "ingredients": [
       {
         "food": "salmon",
@@ -52,6 +54,7 @@
   },
   "piscanec_zelena_solata": {
     "name": "Piščanec v zeleni solati",
+    "category": "kosilo_vecerja",
     "ingredients": [
       {
         "food": "chicken_broilers_or_fryers_breast_meat_only_raw",
@@ -80,6 +83,7 @@
   },
   "rizota_meso": {
     "name": "Rižota z mesom",
+    "category": "kosilo_vecerja",
     "ingredients": [
       {
         "food": "white_rice",
@@ -108,6 +112,7 @@
   },
   "rizota_tuna": {
     "name": "Rižota s tuno",
+    "category": "kosilo_vecerja",
     "ingredients": [
       {
         "food": "white_rice",
@@ -136,6 +141,7 @@
   },
   "tortilja_piscanec": {
     "name": "Tortilja s piščancem",
+    "category": "kosilo_vecerja",
     "ingredients": [
       {
         "food": "tortilla_flour",
@@ -164,6 +170,7 @@
   },
   "zelenjavni_polpet": {
     "name": "Zelenjavni polpet",
+    "category": "kosilo_vecerja",
     "ingredients": [
       {
         "food": "zucchini_raw",
@@ -192,6 +199,7 @@
   },
   "zelenjavna_juha": {
     "name": "Zelenjavna juha",
+    "category": "kosilo_vecerja",
     "ingredients": [
       {
         "food": "vegetable_soup",
@@ -210,6 +218,7 @@
   },
   "goveji_zrezek_krompir_zelenjava": {
     "name": "Goveji zrezek s krompirjem in zelenjavo",
+    "category": "kosilo_vecerja",
     "ingredients": [
       {
         "food": "beef",
@@ -238,6 +247,7 @@
   },
   "testenine_tuna_paradiznik": {
     "name": "Testenine s tuno in paradižnikovo omako",
+    "category": "kosilo_vecerja",
     "ingredients": [
       {
         "food": "pasta",
@@ -266,6 +276,7 @@
   },
   "omleta_jajca_zelenjava": {
     "name": "Omleta z jajci in zelenjavo",
+    "category": "kosilo_vecerja",
     "ingredients": [
       {
         "food": "egg_whole_raw",
@@ -290,6 +301,328 @@
     "iron_mg": 3.65,
     "vitamin_b12_µg": 2.04,
     "vitamin_d_µg": 5.0,
+    "omega_3_g": null
+  },
+  "sendvic_sir_prsut": {
+    "name": "Sendvič s sirom in pršutom",
+    "category": "zajtrk",
+    "ingredients": [
+      {
+        "food": "whole_wheat_bread",
+        "quantity": 60,
+        "unit": "g"
+      },
+      {
+        "food": "cheddar_cheese",
+        "quantity": 30,
+        "unit": "g"
+      },
+      {
+        "food": "prosciutto",
+        "quantity": 30,
+        "unit": "g"
+      }
+    ],
+    "calories": 342.9,
+    "protein_g": 17.892,
+    "fat_g": 15.996,
+    "carbs_g": 26.871,
+    "iron_mg": 2.373,
+    "vitamin_b12_µg": null,
+    "vitamin_d_µg": 0.0,
+    "omega_3_g": null
+  },
+  "toast_sir_sunka": {
+    "name": "Toast s sirom in šunko",
+    "category": "zajtrk",
+    "ingredients": [
+      {
+        "food": "white_bread_toasted",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "food": "cheddar_cheese",
+        "quantity": 30,
+        "unit": "g"
+      },
+      {
+        "food": "ham",
+        "quantity": 30,
+        "unit": "g"
+      }
+    ],
+    "calories": 299.5,
+    "protein_g": 17.312,
+    "fat_g": 11.711,
+    "carbs_g": 28.58,
+    "iron_mg": 2.097,
+    "vitamin_b12_µg": 0.12,
+    "vitamin_d_µg": 0.21,
+    "omega_3_g": null
+  },
+  "tortilja_humus": {
+    "name": "Koruzna tortilja s humusom",
+    "category": "zajtrk",
+    "ingredients": [
+      {
+        "food": "tortilla_flour",
+        "quantity": 1,
+        "unit": "kos"
+      },
+      {
+        "food": "chickpeas",
+        "quantity": 60,
+        "unit": "g"
+      },
+      {
+        "food": "olive_oil",
+        "quantity": 10,
+        "unit": "g"
+      }
+    ],
+    "calories": 304.5,
+    "protein_g": 8.49,
+    "fat_g": 14.556,
+    "carbs_g": 34.701,
+    "iron_mg": 2.379,
+    "vitamin_b12_µg": 0.0,
+    "vitamin_d_µg": 0.0,
+    "omega_3_g": null
+  },
+  "muesli": {
+    "name": "Muesli",
+    "category": "zajtrk",
+    "ingredients": [
+      {
+        "food": "greek_yogurt",
+        "quantity": 70,
+        "unit": "g"
+      },
+      {
+        "food": "oats",
+        "quantity": 30,
+        "unit": "g"
+      }
+    ],
+    "calories": 178.09,
+    "protein_g": 9.896,
+    "fat_g": 4.948,
+    "carbs_g": 23.575,
+    "iron_mg": 1.35,
+    "vitamin_b12_µg": null,
+    "vitamin_d_µg": 0.0,
+    "omega_3_g": null
+  },
+  "burek": {
+    "name": "Burek",
+    "category": "zajtrk",
+    "ingredients": [
+      {
+        "food": "burek",
+        "quantity": 100,
+        "unit": "g"
+      }
+    ],
+    "calories": 254.0,
+    "protein_g": 10.6,
+    "fat_g": 11.3,
+    "carbs_g": 21.8,
+    "iron_mg": 2.54,
+    "vitamin_b12_µg": null,
+    "vitamin_d_µg": null,
+    "omega_3_g": null
+  },
+  "golaz": {
+    "name": "Golaš",
+    "category": "kosilo_vecerja",
+    "ingredients": [
+      {
+        "food": "beef",
+        "quantity": 300,
+        "unit": "g"
+      },
+      {
+        "food": "potato",
+        "quantity": 50,
+        "unit": "g"
+      }
+    ],
+    "calories": 425.5,
+    "protein_g": 61.025,
+    "fat_g": 17.685,
+    "carbs_g": 8.75,
+    "iron_mg": 13.125,
+    "vitamin_b12_µg": 0.0,
+    "vitamin_d_µg": 0.0,
+    "omega_3_g": null
+  },
+  "piscanec_samostojno": {
+    "name": "Piščanec",
+    "category": "kosilo_vecerja",
+    "ingredients": [
+      {
+        "food": "chicken_broilers_or_fryers_breast_meat_only_raw",
+        "quantity": 500,
+        "unit": "g"
+      }
+    ],
+    "calories": 595.0,
+    "protein_g": 107.0,
+    "fat_g": 15.4,
+    "carbs_g": 0.0,
+    "iron_mg": 4.45,
+    "vitamin_b12_µg": 1.85,
+    "vitamin_d_µg": 0.5,
+    "omega_3_g": null
+  },
+  "lignji_krompir": {
+    "name": "Praženi lignji z ocvrtim krompirjem",
+    "category": "kosilo_vecerja",
+    "ingredients": [
+      {
+        "food": "squid",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "food": "potato",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "food": "olive_oil",
+        "quantity": 15,
+        "unit": "g"
+      }
+    ],
+    "calories": 725.0,
+    "protein_g": 33.3,
+    "fat_g": 47.98,
+    "carbs_g": 42.28,
+    "iron_mg": 4.324,
+    "vitamin_b12_µg": 0.0,
+    "vitamin_d_µg": 0.0,
+    "omega_3_g": null
+  },
+  "piscanec_zelje_fizol": {
+    "name": "Piščanec, zeljnata solata in fižol",
+    "category": "kosilo_vecerja",
+    "ingredients": [
+      {
+        "food": "chicken_broilers_or_fryers_breast_meat_only_raw",
+        "quantity": 300,
+        "unit": "g"
+      },
+      {
+        "food": "cabbage_raw",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "food": "kidney_beans",
+        "quantity": 100,
+        "unit": "g"
+      }
+    ],
+    "calories": 507.0,
+    "protein_g": 74.45,
+    "fat_g": 9.82,
+    "carbs_g": 23.9,
+    "iron_mg": 5.69,
+    "vitamin_b12_µg": 1.11,
+    "vitamin_d_µg": 0.3,
+    "omega_3_g": null
+  },
+  "kuskus_samostojno": {
+    "name": "Kuskus",
+    "category": "kosilo_vecerja",
+    "ingredients": [
+      {
+        "food": "couscous",
+        "quantity": 400,
+        "unit": "g"
+      }
+    ],
+    "calories": 1512.0,
+    "protein_g": 53.2,
+    "fat_g": 0.0,
+    "carbs_g": 311.2,
+    "iron_mg": 8.88,
+    "vitamin_b12_µg": null,
+    "vitamin_d_µg": null,
+    "omega_3_g": null
+  },
+  "kamut_samostojno": {
+    "name": "Kamut",
+    "category": "kosilo_vecerja",
+    "ingredients": [
+      {
+        "food": "kamut_wheat",
+        "quantity": 300,
+        "unit": "g"
+      }
+    ],
+    "calories": 1134.0,
+    "protein_g": 39.9,
+    "fat_g": 3.33,
+    "carbs_g": 206.7,
+    "iron_mg": 7.2,
+    "vitamin_b12_µg": null,
+    "vitamin_d_µg": null,
+    "omega_3_g": null
+  },
+  "psenicna_tortilja_piscanec": {
+    "name": "Pšenična tortilja s piščancem",
+    "category": "kosilo_vecerja",
+    "ingredients": [
+      {
+        "food": "chicken_broilers_or_fryers_breast_meat_only_raw",
+        "quantity": 400,
+        "unit": "g"
+      },
+      {
+        "food": "tortilla_flour",
+        "quantity": 1,
+        "unit": "kos"
+      }
+    ],
+    "calories": 613.7,
+    "protein_g": 89.29,
+    "fat_g": 15.916,
+    "carbs_g": 22.221,
+    "iron_mg": 5.193,
+    "vitamin_b12_µg": 1.48,
+    "vitamin_d_µg": 0.4,
+    "omega_3_g": null
+  },
+  "pizza": {
+    "name": "Pizza",
+    "category": "kosilo_vecerja",
+    "ingredients": [
+      {
+        "food": "white_bread",
+        "quantity": 150,
+        "unit": "g"
+      },
+      {
+        "food": "cheddar_cheese",
+        "quantity": 80,
+        "unit": "g"
+      },
+      {
+        "food": "tomatoes_raw",
+        "quantity": 50,
+        "unit": "g"
+      }
+    ],
+    "calories": 714.4,
+    "protein_g": 29.53,
+    "fat_g": 27.535,
+    "carbs_g": 76.876,
+    "iron_mg": 3.35,
+    "vitamin_b12_µg": 0.0,
+    "vitamin_d_µg": 0.0,
     "omega_3_g": null
   }
 }

@@ -19,8 +19,11 @@ export interface MealIngredient {
   unit: string;
 }
 
+export type MealCategory = "zajtrk" | "kosilo_vecerja";
+
 export interface MealItem {
   name: string;
+  category: MealCategory;
   ingredients: MealIngredient[];
   calories: number | null;
   protein_g: number | null;
@@ -34,9 +37,6 @@ export interface MealItem {
 
 export type Meals = Record<string, MealItem>;
 
-export const MEAL_TIMES = ["Zajtrk", "Kosilo", "Večerja"] as const;
-export type MealTime = (typeof MEAL_TIMES)[number];
-
 export type ItemType = "food" | "meal";
 
 export interface Selection {
@@ -44,8 +44,7 @@ export interface Selection {
   quantity: number;
 }
 
-export type SectionSelections = Record<string, Selection>;
-export type AllSelections = Record<MealTime, SectionSelections>;
+export type AllSelections = Record<string, Selection>;
 
 export interface NutrientTotals {
   calories: number | null;

@@ -55,7 +55,7 @@ FOODS = [
     {"name": "Tortilja", "query": "tortilla, flour", "unit": "1 kos"},
     {"name": "Riž", "query": "white rice", "unit": "100g"},
     {"name": "Rjavi riž", "query": "brown rice", "unit": "100g"},
-    {"name": "Basmati riž", "query": "basmati rice", "unit": "100g"},
+    {"name": "Basmati riž", "query": "rice, white, long-grain, aromatic, basmati, raw, unenriched", "unit": "100g"},
     {"name": "Jasminov riž", "query": "jasmine rice", "unit": "100g"},
     {"name": "Krompir", "query": "potatoes, flesh and skin, raw", "unit": "100g"},
     {"name": "Sladki krompir", "query": "sweet potato", "unit": "100g"},
